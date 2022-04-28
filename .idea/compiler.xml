@@ -11,12 +11,15 @@
         <module name="spring-rest-book-app" />
         <module name="spring-furnapp-exception-response" />
         <module name="spring-rest-basic" />
+        <module name="spring-rest-camerajpa-response" />
         <module name="spring-furnapp-rest-exceptions" />
         <module name="spring-rest-product-response" />
         <module name="spring-rest-camerajpa" />
+        <module name="spring-rest-camerjpa-response" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="demo" target="11" />
       <module name="spring-furnapp-exception-response" target="11" />
       <module name="spring-furnapp-exceptions" target="11" />
       <module name="spring-furnapp-response-exceptions" target="11" />
@@ -25,12 +28,15 @@
       <module name="spring-rest-basic" target="11" />
       <module name="spring-rest-book-app" target="11" />
       <module name="spring-rest-camerajpa" target="11" />
+      <module name="spring-rest-camerajpa-response" target="11" />
+      <module name="spring-rest-camerjpa-response" target="11" />
       <module name="spring-rest-product-response" target="11" />
       <module name="spring-rest-productresponse" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
       <module name="spring-furnapp-exception-response" options="-parameters" />
       <module name="spring-furnapp-exceptions" options="-parameters" />
       <module name="spring-furnapp-response-exceptions" options="-parameters" />
@@ -39,6 +45,8 @@
       <module name="spring-rest-basic" options="-parameters" />
       <module name="spring-rest-book-app" options="-parameters" />
       <module name="spring-rest-camerajpa" options="-parameters" />
+      <module name="spring-rest-camerajpa-response" options="-parameters" />
+      <module name="spring-rest-camerjpa-response" options="-parameters" />
       <module name="spring-rest-product-response" options="-parameters" />
       <module name="spring-rest-productresponse" options="-parameters" />
     </option>

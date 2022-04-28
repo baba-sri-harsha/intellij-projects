@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring-rest-basic/spring-rest-basic.iml" filepath="$PROJECT_DIR$/spring-rest-basic/spring-rest-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-rest-book-app/spring-rest-book-app.iml" filepath="$PROJECT_DIR$/spring-rest-book-app/spring-rest-book-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-rest-camerajpa/spring-rest-camerajpa.iml" filepath="$PROJECT_DIR$/spring-rest-camerajpa/spring-rest-camerajpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-camerajpa-response/spring-rest-camerajpa-response.iml" filepath="$PROJECT_DIR$/spring-rest-camerajpa-response/spring-rest-camerajpa-response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-camerajpa/spring-rest-camerjpa-response.iml" filepath="$PROJECT_DIR$/spring-rest-camerajpa/spring-rest-camerjpa-response.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-rest-product-response/spring-rest-product-response.iml" filepath="$PROJECT_DIR$/spring-rest-product-response/spring-rest-product-response.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootrest.iml" filepath="$PROJECT_DIR$/springbootrest.iml" />
     </modules>

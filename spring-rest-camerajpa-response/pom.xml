@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.camerapp</groupId>
-	<artifactId>spring-rest-camerjpa-response</artifactId>
+	<artifactId>spring-rest-camerajpa-response</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-rest-camerjpa-response</name>
-	<description>spring-rest-camerjpa-response</description>
+	<name>spring-rest-camerajpa-response</name>
+	<description>spring-rest-camerajpa-response</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
