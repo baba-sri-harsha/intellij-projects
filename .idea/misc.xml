@@ -13,6 +13,9 @@
         <option value="$PROJECT_DIR$/spring-rest-camerajpa/pom.xml" />
         <option value="$PROJECT_DIR$/spring-rest-camerajpa-response/pom.xml" />
         <option value="$PROJECT_DIR$/spring-rest-payingguest-exceptions/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-inmemory/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-jpa/pom.xml" />
       </list>
     </option>
   </component>

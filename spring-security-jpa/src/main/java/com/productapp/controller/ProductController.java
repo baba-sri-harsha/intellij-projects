@@ -1,18 +1,14 @@
 package com.productapp.controller;
 
-import java.util.List;
-
-
 import com.productapp.execptions.ProductNotFoundException;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.productapp.model.Product;
+import com.productapp.service.IProductService;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Controller;
-
-import com.productapp.model.Product;
-import com.productapp.service.IProductService;
 import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
 
 @RestController
 @RequestMapping("product-api")
@@ -24,7 +20,7 @@ public class ProductController {
         this.productService = productService;
     }
 
-    @PostMapping("/products")
+    @PostMapping("/admin/products")
     public ResponseEntity<Void> addProduct(@RequestBody Product product) {
         productService.addProduct(product);
         ResponseEntity<Void> responseEntity =
@@ -32,7 +28,7 @@ public class ProductController {
         return  responseEntity;
     }
 
-    @PutMapping("/products")
+    @PutMapping("/admin/products")
     public  ResponseEntity<Void> updateProduct(@RequestBody Product product){
         productService.updateProduct(product);
         ResponseEntity<Void> responseEntity=

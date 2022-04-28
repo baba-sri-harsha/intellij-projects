@@ -8,12 +8,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-payingguest-rest" />
+        <module name="spring-security-basic" />
         <module name="spring-rest-book-app" />
+        <module name="spring-security-jpa" />
         <module name="spring-furnapp-exception-response" />
-        <module name="spring-rest-basic" />
         <module name="spring-rest-payingguest-exceptions" />
         <module name="spring-rest-camerajpa-response" />
         <module name="spring-furnapp-rest-exceptions" />
+        <module name="spring-security-datajpa" />
         <module name="spring-rest-product-response" />
         <module name="spring-rest-camerajpa" />
         <module name="spring-rest-camerjpa-response" />
@@ -34,6 +36,10 @@
       <module name="spring-rest-payingguest-exceptions" target="11" />
       <module name="spring-rest-product-response" target="11" />
       <module name="spring-rest-productresponse" target="11" />
+      <module name="spring-security-basic" target="11" />
+      <module name="spring-security-datajpa" target="11" />
+      <module name="spring-security-inmemory" target="11" />
+      <module name="spring-security-jpa" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -52,6 +58,10 @@
       <module name="spring-rest-payingguest-exceptions" options="-parameters" />
       <module name="spring-rest-product-response" options="-parameters" />
       <module name="spring-rest-productresponse" options="-parameters" />
+      <module name="spring-security-basic" options="-parameters" />
+      <module name="spring-security-datajpa" options="-parameters" />
+      <module name="spring-security-inmemory" options="-parameters" />
+      <module name="spring-security-jpa" options="-parameters" />
     </option>
   </component>
 </project>

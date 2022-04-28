@@ -4,13 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-furnapp-rest-exceptions/spring-furnapp-rest-exceptions.iml" filepath="$PROJECT_DIR$/spring-furnapp-rest-exceptions/spring-furnapp-rest-exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-payingguest-rest/spring-payingguest-rest.iml" filepath="$PROJECT_DIR$/spring-payingguest-rest/spring-payingguest-rest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-rest-basic/spring-rest-basic.iml" filepath="$PROJECT_DIR$/spring-rest-basic/spring-rest-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-rest-book-app/spring-rest-book-app.iml" filepath="$PROJECT_DIR$/spring-rest-book-app/spring-rest-book-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-rest-camerajpa/spring-rest-camerajpa.iml" filepath="$PROJECT_DIR$/spring-rest-camerajpa/spring-rest-camerajpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-rest-camerajpa-response/spring-rest-camerajpa-response.iml" filepath="$PROJECT_DIR$/spring-rest-camerajpa-response/spring-rest-camerajpa-response.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-rest-camerajpa/spring-rest-camerjpa-response.iml" filepath="$PROJECT_DIR$/spring-rest-camerajpa/spring-rest-camerjpa-response.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-rest-payingguest-exceptions/spring-rest-payingguest-exceptions.iml" filepath="$PROJECT_DIR$/spring-rest-payingguest-exceptions/spring-rest-payingguest-exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-rest-product-response/spring-rest-product-response.iml" filepath="$PROJECT_DIR$/spring-rest-product-response/spring-rest-product-response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-basic/spring-security-basic.iml" filepath="$PROJECT_DIR$/spring-security-basic/spring-security-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-inmemory/spring-security-datajpa.iml" filepath="$PROJECT_DIR$/spring-security-inmemory/spring-security-datajpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-jpa/spring-security-jpa.iml" filepath="$PROJECT_DIR$/spring-security-jpa/spring-security-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootrest.iml" filepath="$PROJECT_DIR$/springbootrest.iml" />
     </modules>
   </component>
