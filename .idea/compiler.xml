@@ -11,6 +11,7 @@
         <module name="spring-rest-book-app" />
         <module name="spring-furnapp-exception-response" />
         <module name="spring-rest-basic" />
+        <module name="spring-rest-payingguest-exceptions" />
         <module name="spring-rest-camerajpa-response" />
         <module name="spring-furnapp-rest-exceptions" />
         <module name="spring-rest-product-response" />
@@ -30,6 +31,7 @@
       <module name="spring-rest-camerajpa" target="11" />
       <module name="spring-rest-camerajpa-response" target="11" />
       <module name="spring-rest-camerjpa-response" target="11" />
+      <module name="spring-rest-payingguest-exceptions" target="11" />
       <module name="spring-rest-product-response" target="11" />
       <module name="spring-rest-productresponse" target="11" />
     </bytecodeTargetLevel>
@@ -47,6 +49,7 @@
       <module name="spring-rest-camerajpa" options="-parameters" />
       <module name="spring-rest-camerajpa-response" options="-parameters" />
       <module name="spring-rest-camerjpa-response" options="-parameters" />
+      <module name="spring-rest-payingguest-exceptions" options="-parameters" />
       <module name="spring-rest-product-response" options="-parameters" />
       <module name="spring-rest-productresponse" options="-parameters" />
     </option>

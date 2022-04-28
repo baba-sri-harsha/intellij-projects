@@ -2,9 +2,10 @@ package com.productapp.service;
 
 import java.util.List;
 
+import com.productapp.execptions.ProductNotFoundException;
 import org.springframework.stereotype.Service;
 
-import com.productapp.exception.ProductNotFoundException;
+
 import com.productapp.model.Product;
 
 

@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/spring-payingguest-rest/pom.xml" />
         <option value="$PROJECT_DIR$/spring-rest-camerajpa/pom.xml" />
         <option value="$PROJECT_DIR$/spring-rest-camerajpa-response/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest-payingguest-exceptions/pom.xml" />
       </list>
     </option>
   </component>
