@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-payingguest-rest" />
+        <module name="spring-rest-book-app" />
+        <module name="spring-furnapp-exception-response" />
+        <module name="spring-rest-basic" />
+        <module name="spring-furnapp-rest-exceptions" />
+        <module name="spring-rest-product-response" />
+        <module name="spring-rest-camerajpa" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-furnapp-exception-response" target="11" />
+      <module name="spring-furnapp-exceptions" target="11" />
+      <module name="spring-furnapp-response-exceptions" target="11" />
+      <module name="spring-furnapp-rest-exceptions" target="11" />
+      <module name="spring-payingguest-rest" target="11" />
+      <module name="spring-rest-basic" target="11" />
+      <module name="spring-rest-book-app" target="11" />
+      <module name="spring-rest-camerajpa" target="11" />
+      <module name="spring-rest-product-response" target="11" />
+      <module name="spring-rest-productresponse" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-furnapp-exception-response" options="-parameters" />
+      <module name="spring-furnapp-exceptions" options="-parameters" />
+      <module name="spring-furnapp-response-exceptions" options="-parameters" />
+      <module name="spring-furnapp-rest-exceptions" options="-parameters" />
+      <module name="spring-payingguest-rest" options="-parameters" />
+      <module name="spring-rest-basic" options="-parameters" />
+      <module name="spring-rest-book-app" options="-parameters" />
+      <module name="spring-rest-camerajpa" options="-parameters" />
+      <module name="spring-rest-product-response" options="-parameters" />
+      <module name="spring-rest-productresponse" options="-parameters" />
+    </option>
+  </component>
+</project>
