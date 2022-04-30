@@ -26,7 +26,7 @@ public interface IProductService {
     
     List<Product> getByBrandStarting(String brand)throws ProductNotFoundException;
 
-    List<Product> getByBrand(String brand);
+    List<Product> getByBrand(String  brand);
 }
 
 
