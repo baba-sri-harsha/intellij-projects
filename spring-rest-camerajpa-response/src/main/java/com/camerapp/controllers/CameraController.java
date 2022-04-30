@@ -16,7 +16,6 @@ import java.util.List;
 public class CameraController {
     private ICameraService cameraService;
 
-
     @Autowired
     public void setCameraService(ICameraService cameraService) {
         this.cameraService = cameraService;
